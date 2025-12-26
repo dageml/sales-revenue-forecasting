@@ -1,7 +1,7 @@
 # sales-revenue-forecasting
 
 
-##Project Overview
+Project Overview
 
 Accurately forecasting revenue is a critical challenge for retail and supermarket organizations, as it directly impacts pricing strategies, inventory planning, promotions, and overall business decision-making. Many organizations lack the technical expertise or resources to build reliable forecasting models using historical and market data.
 
